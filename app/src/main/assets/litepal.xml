@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="xylBlog" />
+    <version value="1" />
+    <list>
+        <mapping class="cn.lixingyu.xylblog.Entity.Blog"></mapping>
+        <mapping class="cn.lixingyu.xylblog.Entity.Admin"></mapping>
+        <mapping class="cn.lixingyu.xylblog.Entity.Category"></mapping>
+    </list>
+</litepal>

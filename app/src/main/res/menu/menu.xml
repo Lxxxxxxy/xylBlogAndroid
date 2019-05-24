@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/addBlog"
+            android:title="addBlog" />
+        <item
+            android:id="@+id/managerBlog"
+            android:title="managerBlog" />
+        <item
+            android:id="@+id/admin"
+            android:title="admin" />
+        <item
+            android:id="@+id/offline"
+            android:title="offline" />
+
+    </group>
+
+</menu>
